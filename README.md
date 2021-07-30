@@ -78,6 +78,11 @@ This section serves as a means to navigate the project/repository.
       - 6 = 35 to 49
       - 7 = 50 to 64
       - 8 = 65 or older
+
+![stocks3](https://user-images.githubusercontent.com/68763904/127594321-8f1e568c-84a6-4d20-ab16-5d2443de1fce.PNG)
+
+
+
     - **Aggregate type of crime** (newcrime) - Personal victimization includes all violent victimization, rape, sexual assault, robbery, assault, and personal theft. This category includes both attempted and completed crimes. Violent victimization is defined as rape, sexual assault, robbery, aggravated assault, or simple assault. Murder is not measured by the NCVS because of an inability to question the victim. Personal theft/larceny includes purse-snatching or pocket-picking.
       - 1 = Violent victimization
       - 2 = Personal theft/larceny
@@ -109,6 +114,14 @@ This section serves as a means to navigate the project/repository.
       - Adjusted for both dividends and splits
     - **Volume**
       - The total volume of trades for the day
+
+![stocks](https://user-images.githubusercontent.com/68763904/127594349-c2a86599-6311-409c-92eb-9b5cf17b5755.PNG)
+
+
+![stocks2](https://user-images.githubusercontent.com/68763904/127594385-d4928779-fb97-4ec7-bd61-2972814dc17b.PNG)
+
+
+
   - Limitations
     - There isn't a well-established indicator of market fluctation included in the dataset. This would allow us to make stronger conclusions about the effects of market changes.
 
@@ -127,6 +140,7 @@ Research Questions include:
 2. Are certain age groups more likely to be victims of certain crimes?
 3. Have victimization rates changed over time?
 
+
 ### Results
 **Research results and further research development:**
 From our visualizations, in years where the DJI had a relatively poor performance, victimization rates often showed increases for the following year for ages 34 to 49.
@@ -138,6 +152,16 @@ Supplemental data sources would be required to properly assess these trends amon
 2. The age groups are grouped in an imbalanced way, partially obfuscating if which ages might be more reflective of market changes
 To better understand what we are seeing, we would have to reassess why stock performance one year would influence victimization rates the following year for ages 34 to 49
 Following the introduction of a supplemental data source, we can run tests to see if a statistically significant correlation exists market changes and victimization within an age group.
+
+
+![stocks4](https://user-images.githubusercontent.com/68763904/127594469-b0090154-f25a-4c5d-a33a-0ca39eb46296.PNG)
+
+
+![stocks5](https://user-images.githubusercontent.com/68763904/127594477-1adc5330-f57b-4e58-ade6-09951b0d39d7.PNG)
+
+
+![stocks6](https://user-images.githubusercontent.com/68763904/127594508-d7b4342c-a82b-4f25-a8d2-dbdc8c9ed7c4.PNG)
+
 
 ---
 
